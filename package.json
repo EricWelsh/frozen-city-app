@@ -1,0 +1,22 @@
+{
+  "name": "frozen-city-app",
+  "version": "1.0.0",
+  "description": "Frostgrave Campaign Manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricWelsh/frozen-city-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricWelsh/frozen-city-app/issues"
+  },
+  "homepage": "https://github.com/EricWelsh/frozen-city-app#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
